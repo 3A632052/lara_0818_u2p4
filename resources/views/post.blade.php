@@ -62,4 +62,4 @@
     </article>
 
     <hr>
-@endsection 
+@endsection
