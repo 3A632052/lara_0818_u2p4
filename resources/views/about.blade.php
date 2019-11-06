@@ -30,5 +30,5 @@
 
     <hr>
 
- 
+
 @endsection
